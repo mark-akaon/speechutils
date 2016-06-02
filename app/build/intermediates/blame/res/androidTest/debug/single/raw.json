@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/mark/git/K6nele/speechutils/app/build/intermediates/res/merged/androidTest/debug/raw/explore_begin.ogg",
+        "source": "/home/mark/git/K6nele/speechutils/app/build/intermediates/bundles/debug/res/raw/explore_begin.ogg"
+    },
+    {
+        "merged": "/home/mark/git/K6nele/speechutils/app/build/intermediates/res/merged/androidTest/debug/raw/explore_end.ogg",
+        "source": "/home/mark/git/K6nele/speechutils/app/build/intermediates/bundles/debug/res/raw/explore_end.ogg"
+    },
+    {
+        "merged": "/home/mark/git/K6nele/speechutils/app/build/intermediates/res/merged/androidTest/debug/raw/error.wav",
+        "source": "/home/mark/git/K6nele/speechutils/app/build/intermediates/bundles/debug/res/raw/error.wav"
+    }
+]
